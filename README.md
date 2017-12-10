@@ -1,5 +1,5 @@
-# And-AdMob-Core
-And AdMob Core
+# And-AdMob-Core-V-201712.0.1
+And AdMob Core V-201712.0.1
 
 ### GIT Commit
 ```git_commit
