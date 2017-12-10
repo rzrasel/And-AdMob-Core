@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndAdMobCore-201712.0.1.iml" filepath="$PROJECT_DIR$/AndAdMobCore-201712.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admobcore/admobcore.iml" filepath="$PROJECT_DIR$/admobcore/admobcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usagesexample/usagesexample.iml" filepath="$PROJECT_DIR$/usagesexample/usagesexample.iml" />
+    </modules>
+  </component>
+</project>
